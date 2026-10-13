@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549722069779",
+    "project_id": "taskpulse-ba3d0",
+    "storage_bucket": "taskpulse-ba3d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549722069779:android:d75a5e52dde060485298e6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMt2TOBj_qDCA4w0Tlj2OVRZt857ESAGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
